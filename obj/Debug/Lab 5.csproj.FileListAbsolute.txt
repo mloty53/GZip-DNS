@@ -1,0 +1,10 @@
+C:\Users\macie\Downloads\Labki (2018)\C#\Lab 5\Lab 5\bin\Debug\Lab 5.exe.config
+C:\Users\macie\Downloads\Labki (2018)\C#\Lab 5\Lab 5\bin\Debug\Lab 5.exe
+C:\Users\macie\Downloads\Labki (2018)\C#\Lab 5\Lab 5\bin\Debug\Lab 5.pdb
+C:\Users\macie\Downloads\Labki (2018)\C#\Lab 5\Lab 5\obj\Debug\Lab 5.csprojAssemblyReference.cache
+C:\Users\macie\Downloads\Labki (2018)\C#\Lab 5\Lab 5\obj\Debug\Lab_5.Form1.resources
+C:\Users\macie\Downloads\Labki (2018)\C#\Lab 5\Lab 5\obj\Debug\Lab_5.Properties.Resources.resources
+C:\Users\macie\Downloads\Labki (2018)\C#\Lab 5\Lab 5\obj\Debug\Lab 5.csproj.GenerateResource.cache
+C:\Users\macie\Downloads\Labki (2018)\C#\Lab 5\Lab 5\obj\Debug\Lab 5.csproj.CoreCompileInputs.cache
+C:\Users\macie\Downloads\Labki (2018)\C#\Lab 5\Lab 5\obj\Debug\Lab 5.exe
+C:\Users\macie\Downloads\Labki (2018)\C#\Lab 5\Lab 5\obj\Debug\Lab 5.pdb
